@@ -2,7 +2,7 @@
 
 Để chạy cái này các bạn nên tạo 1 acc miễn phí tại netlify.com Nhanh gọn nhẹ
 
-A browserifyable 3d metamask logo. [Live demo](https://metamask.github.io/logo/).
+A browserifyable 3d metamask logo. [Live demo](https://logometamask.netlify.app/).
 
 This repo can both be included as a browserifiable module, and includes a sample app.
 
